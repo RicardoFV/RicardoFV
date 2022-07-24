@@ -7,7 +7,7 @@
 ##
 <div align="center">
   <a href="https://github.com/RicardoFV ">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RicardoFV&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RicardoFV&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFV&layout=compact&langs_count=6&theme=dracula"/>
 </div>
   
