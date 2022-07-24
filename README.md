@@ -11,6 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFV&layout=compact&langs_count=6&theme=dracula"/>
 </div>
   
+  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">     
